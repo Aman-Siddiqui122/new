@@ -1,0 +1,6 @@
+{
+  "name": "CoreTax — Premium Accounting, Tax & Advisory",
+  "description": "Clarity in Numbers. Confidence in Business. Smart financial expertise for businesses ready to move forward.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
